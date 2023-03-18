@@ -1,8 +1,9 @@
-# AlarmClock-html,css,js
-
+# AlarmClock
+Alarm Clock(Made using HTML5 CSS3 and JavaScript)
 # LINKS
 
-<a href = "https://gilded-granita-47d089.netlify.app"> <b>LIVE PRODUCT</b> </a>  &nbsp; <a href = "https://github.com/BhargavSaiAkula/AlarmClock-html-css-js"> <b>CODE</b> </a> <br>
+<a href = "https://gilded-granita-47d089.netlify.app"> <b>You can see the website live </b> </a>  
+
 
 <li>This is a repository for Alarm Clock Developed using  JavaScript, HTML, CSS.</li>
 <br>
