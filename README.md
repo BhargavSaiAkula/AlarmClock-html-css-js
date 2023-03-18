@@ -1,5 +1,8 @@
 # AlarmClock-html,css,js
 
+# LINKS
+
+<a href = "https://gilded-granita-47d089.netlify.app"> <b>LIVE PRODUCT</b> </a>  &nbsp; <a href = "https://github.com/BhargavSaiAkula/AlarmClock-html-css-js"> <b>CODE</b> </a> <br>
 
 <li>This is a repository for Alarm Clock Developed using  JavaScript, HTML, CSS.</li>
 <br>
@@ -30,6 +33,7 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 - <b>Delete alarm</b> <br>
   - For each alarm give a delete button to delete the alarm
   - When the user deletes an alarm make sure it “does not alerts the user”
+  
 
 <br>
 
