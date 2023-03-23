@@ -1,7 +1,7 @@
 # AlarmClock
 Alarm Clock(Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at:https://gilded-granita-47d089.netlify.app 
+You can see the website live at:https://bhargav-sai-alarmclock.netlify.app/
    
    
 ![Screenshot (9146)](https://github.com/BhargavSaiAkula/AlarmClock-html-css-js/blob/main/Screenshot%20clock.png)
